@@ -20,6 +20,7 @@ git clone https://github.com/Luna-luns/Hacker_news_site.git
 - Установите и активируйте виртуальное окружение
 
 ```bash
+python3 -m venv venv
 source /venv/bin/activate
 ```
 
