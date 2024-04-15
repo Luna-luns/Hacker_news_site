@@ -21,7 +21,7 @@ git clone https://github.com/Luna-luns/Hacker_news_site.git
 
 ```bash
 python3 -m venv venv
-source /venv/bin/activate
+source venv/bin/activate
 ```
 
 - Установите зависимости из файла requirements.txt
